@@ -48,7 +48,7 @@ const Footer = ({ hideBGCOLOR }) => {
                   <div className="img">
                     <Link href="/blog-details/blog-details-dark">
                       <a>
-                        <imgsrc="/img/blog/1.jpg" alt="" />
+                        <img src="/img/blog/1.jpg" alt="" />
                       </a>
                     </Link>
                   </div>
@@ -72,7 +72,7 @@ const Footer = ({ hideBGCOLOR }) => {
                   <div className="img">
                     <Link href="/blog-details/blog-details-dark">
                       <a>
-                        <imgsrc="/img/blog/2.jpg" alt="" />
+                        <img src="/img/blog/2.jpg" alt="" />
                       </a>
                     </Link>
                   </div>
@@ -104,7 +104,7 @@ const Footer = ({ hideBGCOLOR }) => {
           <div className="col-lg-4">
             <div className="item">
               <div className="logo">
-                <imgsrc={appData.lightLogo} alt="" />
+                <img src={appData.lightLogo} alt="" />
               </div>
               <div className="social">
                 <a href="#0">

@@ -8,7 +8,7 @@ const Footer2 = () => {
           <div className="col-lg-4 col-md-6">
             <div className="item-clumn our md-mb50">
               <a href="#0" className="logo-brand mb-50">
-                <imgsrc="/img/logo-gr.png" alt="" />
+                <img src="/img/logo-gr.png" alt="" />
               </a>
               <p>
                   Paise Se Hi Paisa Banega

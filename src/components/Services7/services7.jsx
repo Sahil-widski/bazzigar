@@ -7,7 +7,7 @@ const Services7 = ({ lightTheme }) => {
         <div className="row">
           <div className="col-lg-5">
             <div className="serv-img md-mb50">
-              <imgsrc={"/img/mobile-app/app-img/dice.jpeg"} alt="" />
+              <img src={"/img/mobile-app/app-img/dice.jpeg"} alt="" />
             </div>
           </div>
           <div className="col-lg-6 offset-lg-1 valign">
