@@ -86,16 +86,26 @@ const Services7 = ({ lightTheme }) => {
                 <span className="left"></span> Sports Betting
               </h6>
               <h2 className="mb-30">
-                Cricket, Football, Basketball and Lot's more
+                Cricket, Football, Basketball and Lots more
               </h2>
               <p>
-              Welcome to Bazzigar Exchange, where sports fans can turn their passion for the game into profit. We offer a wide range of sports betting options for our customers, from football and basketball to tennis and baseball. Our platform is user-friendly, secure and fast. We have a team of experts who are always ready to assist you with any questions you may have. Whether you're a seasoned bettor or new to the game, we have something for everyone. Join Bazzigar Exchange today and experience the thrill of sports betting like never before!
+                Welcome to Bazzigar Exchange, where sports fans can turn their
+                passion for the game into profit. We offer a wide range of
+                sports betting options for our customers, from football and
+                basketball to tennis and baseball. Our platform is
+                user-friendly, secure and fast. We have a team of experts who
+                are always ready to assist you with any questions you may have.
+                Whether youre a seasoned bettor or new to the game, we have
+                something for everyone. Join Bazzigar Exchange today and
+                experience the thrill of sports betting like never before!
               </p>
 
               <div className="butons mt-40">
-                <a href="https://api.whatsapp.com/send?phone=918976471841&text=I want to create ID" className="butn-bord-red rounded buton">
+                <a
+                  href="https://api.whatsapp.com/send?phone=918976471841&text=I want to create ID"
+                  className="butn-bord-red rounded buton"
+                >
                   <span>Create Id</span>
-                
                 </a>
               </div>
             </div>

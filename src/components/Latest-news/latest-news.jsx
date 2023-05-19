@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
-
+import Image from 'next/image'
 const LatestNews = () => {
   return (
     <section className="blog section-padding" id="blog-arch">
@@ -19,7 +19,7 @@ const LatestNews = () => {
           <div className="col-lg-6">
             <div className="item md-mb50 wow fadeInUp" data-wow-delay=".3s">
               <div className="img">
-                <imgsrc="/img/arch/blog/1.jpg" alt="" />
+                <Image src="/img/arch/blog/1.jpg" alt="" />
               </div>
               <div className="cont">
                 <div>
@@ -57,7 +57,7 @@ const LatestNews = () => {
           <div className="col-lg-6">
             <div className="item md-mb50 wow fadeInUp" data-wow-delay=".5s">
               <div className="img">
-                <imgsrc="/img/arch/blog/2.jpg" alt="" />
+                <Image src="/img/arch/blog/2.jpg" alt="" />
               </div>
               <div className="cont">
                 <div>

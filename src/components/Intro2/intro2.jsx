@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React from 'react'
 import Link from 'next/link'
-
+import Image from 'next/image'
 const Intro2 = ({ sliderRef }) => {
   return (
     <header ref={sliderRef} className="slider-st valign position-re">
@@ -28,7 +28,7 @@ const Intro2 = ({ sliderRef }) => {
           </div>
           <div className="col-lg-6">
             <div className="img">
-              <imgsrc="/img/slid/001.jpg" alt="" />
+              <Image src="/img/slid/001.jpg" alt="" />
             </div>
           </div>
         </div>
