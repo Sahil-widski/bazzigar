@@ -11,6 +11,7 @@ import Services8 from "../../components/Services8/services8";
 import Progress from "../../components/Progress/progress";
 
 import Footer2 from "../../components/Footer2/footer2";
+import Services9 from "../../components/Services9/services9";
 
 const MobileAppDark = () => {
   const navbarRef = React.useRef(null);
@@ -43,6 +44,7 @@ const MobileAppDark = () => {
         {/* <Clients3 /> */}
         <Services7 />
         <Services8 />
+        <Services9 />
         {/* <Screenshots /> */}
         <Progress />
         {/* <VideoWithTeam /> */}

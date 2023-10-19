@@ -8,10 +8,10 @@ const Intro6 = () => {
           <div className="col-lg-6 valign">
             <div className="caption">
               <h1 className="mb-20">
-              Win big at Bazzigar Exchange 
+              Bazzigar Exchange: Your Winning Ticket
               </h1>
               <p>
-              - Your top destination for online casino profit
+              - Your Winning Wonderland: Where Bazzigars Meets Exchange
               </p>
               <div className="butons mt-40">
                 <a href="https://api.whatsapp.com/send?phone=918976471841&text=I want to create ID" className="butn-gr rounded buton">
