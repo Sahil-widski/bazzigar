@@ -23,10 +23,10 @@ const Services9 = ({ lightTheme }) => {
                 betting platform in India. At the heart of our mission is a
                 commitment to providing our users with a safe, secure, and
                 enjoyable gaming experience. With our years of experience and
-                dedication to fair play, we've earned the trust of thousands of
-                players across the country. Whether you're into online gaming,
+                dedication to fair play, weve earned the trust of thousands of
+                players across the country. Whether youre into online gaming,
                 sports betting, or casino classics, you can rest easy knowing
-                that you're in good hands. Join us today and discover the
+                that youre in good hands. Join us today and discover the
                 excitement and trust that have made us the go-to choice for
                 gaming and betting enthusiasts throughout India.
               </p>
