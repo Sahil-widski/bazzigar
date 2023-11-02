@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Casino",
+      "second": ""
+    },
+    "content": "The world of casinos is as diverse as it is captivating, offering something for everyone, from casual gamblers to high-rollers seeking their next big win.",
+    "image": "/img/arch/slid/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Teen Patti",
+    "content": "Welcome to Teen Patti, a platform that brings India's beloved card game into the digital age, offering a fusion of tradition, excitement, and innovation. At Teen Patti, we're committed to providing you with a thrilling and authentic gaming experience right at your fingertips.",
+    "image": "/img/arch/slid/3.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Cricket Betting",
+      "second": ""
+    },
+    "content": "Welcome, cricket enthusiasts, and betting aficionados alike, to a world where every boundary, wicket, and over becomes an opportunity to win big – the world of cricket betting!",
+    "image": "/img/arch/slid/2.jpg"
+  }
+]

@@ -1584,14 +1584,6 @@ body .swiper-pagination-bullets.swiper-pagination-horizontal,
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
-.backgroundBlack {
-  background-image: url(/img/mobile-app/header-img.jpeg);
-  background-size: 1500px;
-  background-repeat: no-repeat;
-  
-}
-
-
 /* ====================== [ End footer  ] ====================== */
 /* ====================== [ Start Responsive  ] ====================== */
 @media screen and (max-width: 991px) {
@@ -1621,12 +1613,6 @@ body .swiper-pagination-bullets.swiper-pagination-horizontal,
   .app-works .filter span:after {
     bottom: 0;
   }
-  .backgroundBlack {
-    background-image: url(/img/mobile-app/header-img.jpeg);
-    background-size: 970px;
-    background-repeat: no-repeat;
-    
-  }
 }
 
 @media screen and (max-width: 767px) {
@@ -1642,22 +1628,10 @@ body .swiper-pagination-bullets.swiper-pagination-horizontal,
   .sm-mb50 {
     margin-bottom: 30px;
   }
-  .backgroundBlack {
-    background-image: url(/img/mobile-app/header-img.jpeg);
-    background-size: 444px;
-    background-repeat: no-repeat;
-    
-  }
 }
 
 @media screen and (max-width: 480px) {
   .buton {
     margin-top: 15px;
-  }
-  .backgroundBlack {
-    background-image: url(/img/mobile-app/header-img.jpeg);
-    background-size: 444px;
-    background-repeat: no-repeat;
-    
   }
 }
