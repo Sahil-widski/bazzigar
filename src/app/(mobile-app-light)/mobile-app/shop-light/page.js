@@ -18,7 +18,7 @@ export default function ShopPage() {
 
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar theme="light" />
       <Header headerData={headerData} />
       <Shop />

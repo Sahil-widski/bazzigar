@@ -21,7 +21,7 @@ export default function Services() {
 
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar />
       <Header headerData={headerData} />
       <AppServices />

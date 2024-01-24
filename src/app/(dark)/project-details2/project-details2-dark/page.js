@@ -19,7 +19,7 @@ export const metadata = {
 export default function ProjectDetailsPage() {
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar />
       <div className="wrapper">
         <ProjectDetails2Header projectHeaderData={ProjectDate} />

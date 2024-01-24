@@ -11,7 +11,7 @@ export const metadata = {
 export default function Showcase2Page() {
   return (
     <>
-      <Loading />
+      // <Loading />
       <NavbarFullMenu theme="light" />
       <ShowcaseCircleSide />
     </>

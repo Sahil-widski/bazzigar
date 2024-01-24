@@ -20,7 +20,7 @@ export const metadata = {
 export default function Home4() {
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar />
       <SliderHeader />
       <div class="main-content">

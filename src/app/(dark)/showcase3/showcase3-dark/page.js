@@ -11,7 +11,7 @@ import ShowcaseGrid from '@/components/Showcases/ShowcaseGrid';
 export default function Showcase3Page() {
   return (
     <>
-      {/* <Loading />
+      {/* // <Loading />
       <NavbarFullMenu /> */}
       <ShowcaseGrid />
     </>

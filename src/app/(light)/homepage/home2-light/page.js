@@ -19,7 +19,7 @@ export const metadata = {
 export default function Home2() {
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar theme="light" />
       <Header />
       <Services style="4item" />

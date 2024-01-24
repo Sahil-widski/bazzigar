@@ -18,7 +18,7 @@ export default function Portfolio() {
 
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar theme="light" />
       <Header headerData={headerData} />
       <Works theme="light" />

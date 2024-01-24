@@ -118,7 +118,8 @@
   z-index: 9999999999;
 }
 
-.loading.isdone {
+
+ .loading.isdone {
   top: 50%;
   opacity: 0;
   -webkit-transition: all 0.8s;

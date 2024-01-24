@@ -20,7 +20,7 @@ export default function PricingPage() {
 
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar />
       <Header headerData={headerData} />
       <Pricing />

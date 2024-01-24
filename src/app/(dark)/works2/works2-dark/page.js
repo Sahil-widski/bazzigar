@@ -13,7 +13,7 @@ export const metadata = {
 export default function Works2Page() {
   return (
     <>
-      <Loading />
+      // <Loading />
       <div className="circle-bg">
         <div className="circle-color fixed">
           <div className="gradient-circle"></div>

@@ -22,7 +22,7 @@ export const metadata = {
 export default function MobileApp() {
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar theme="light" grLogo="1" />
       <Header />
       <Brands />

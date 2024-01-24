@@ -22,7 +22,7 @@ function FooterArch() {
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email Us</h6>
-                    <p>support@gmail.com</p>
+                    <p>info@bazzigar.com</p>
                   </div>
                 </li>
                 <li>
@@ -96,6 +96,9 @@ function FooterArch() {
                   © 2023, Bazzigar Exchange. Made with passion by
                   <a href="#0" className="main-color"> Casino Gamers </a>
                   .
+                </p>
+                <p className="main-color" style={{width: "200%"}}>
+                Participants must be 18 years or older to engage in real money activities on Bazzigar Exchange. The mentioned amount is indicative and encompasses promotional tournaments and bonuses. The actual earnings may vary and are contingent on the total number of cash tournaments conducted on the platform, coupled with the bonuses claimed by players in a given calendar month. Individual winnings are determined by the player's skill level and the number of cash tournaments participated in during a calendar month.
                 </p>
               </div>
             </div>

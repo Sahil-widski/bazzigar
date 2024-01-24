@@ -18,7 +18,7 @@ export const metadata = {
 export default function Home3() {
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar theme="light" />
       <Header />
       <Services />

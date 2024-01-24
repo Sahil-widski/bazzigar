@@ -20,7 +20,7 @@ export const metadata = {
 function AboutDark() {
   return (
     <>
-      <Loading />
+      {/* // <Loading /> */}
       <Navbar />
       <PagesHeader imageLink="/img/slid/about.jpg">Our dedicated team of creatives is bursting with talent, experience and passion for what we do.</PagesHeader>
       <AboutIntro />

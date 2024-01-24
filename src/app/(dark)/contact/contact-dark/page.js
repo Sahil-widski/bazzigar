@@ -13,7 +13,7 @@ export const metadata = {
 export default function ContactPage() {
   return (
     <>
-      <Loading />
+      {/* // <Loading /> */}
       <Navbar />
       <ContactHeader />
       <div className="main-content">

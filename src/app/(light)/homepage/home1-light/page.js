@@ -21,7 +21,7 @@ export const metadata = {
 export default function Home1() {
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar />
       <SliderHeader />
       <div className="main-content">

@@ -18,7 +18,7 @@ export default function ShopPage() {
 
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar />
       <Header headerData={headerData} />
       <Shop />

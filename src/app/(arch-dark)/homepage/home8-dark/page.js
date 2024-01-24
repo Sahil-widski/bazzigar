@@ -13,6 +13,7 @@ import LatestNews from '@/components/Others/LatestNews';
 import ContactArch from '@/components/Contact/ContactArch';
 import FooterArch from '@/components/Common/FooterArch';
 import Showcase3Page from '@/app/(dark)/showcase3/showcase3-dark/page';
+import WhatsAppButton from '@/components/Common/whatsapp';
 
 // export const metadata = {
 //   title: 'Vie - Architecture Dark'
@@ -21,7 +22,7 @@ import Showcase3Page from '@/app/(dark)/showcase3/showcase3-dark/page';
 export default function Home8() {
   return (
     <>
-      {/* <Loading /> */}
+      {/* // <Loading /> */}
       <NavbarArch />
       <Header />
       <AboutUs />
@@ -33,6 +34,7 @@ export default function Home8() {
       <TestimonialsArch />
       <LatestNews />
       <ContactArch /> */}
+      <WhatsAppButton />
       <FooterArch />
     </>
   )

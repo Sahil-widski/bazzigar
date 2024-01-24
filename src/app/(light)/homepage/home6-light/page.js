@@ -19,7 +19,7 @@ export const metadata = {
 export default function Home6() {
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar />
       <SliderHeader />
       <div className="main-content">

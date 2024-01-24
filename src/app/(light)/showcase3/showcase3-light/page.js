@@ -11,7 +11,7 @@ export const metadata = {
 export default function Showcase3Page() {
   return (
     <>
-      <Loading />
+      // <Loading />
       <NavbarFullMenu theme="light" />
       <ShowcaseGrid />
     </>

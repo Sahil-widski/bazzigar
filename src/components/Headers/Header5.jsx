@@ -69,14 +69,14 @@ function Header5() {
                           }
                         </div>
                       </div>
-                      <div className="col-lg-4 valign">
+                      {/* <div className="col-lg-4 valign">
                         <div className="explore">
                           <a href="#0">
                             Explore Project
                             <i className="ion-chevron-right"></i>
                           </a>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>

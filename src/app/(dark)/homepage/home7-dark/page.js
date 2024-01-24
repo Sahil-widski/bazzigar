@@ -18,7 +18,7 @@ export const metadata = {
 export default function Home7() {
   return (
     <>
-      <Loading />
+      {/* // <Loading /> */}
       <Navbar />
       <FreelanceHeader />
       <Services />

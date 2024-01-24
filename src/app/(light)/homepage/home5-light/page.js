@@ -20,7 +20,7 @@ export const metadata = {
 export default function Home5() {
   return (
     <>
-      <Loading />
+      // <Loading />
       <Navbar theme="light" />
       <Header />
       <AboutUs />
